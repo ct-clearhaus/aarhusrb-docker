@@ -97,12 +97,14 @@ Otherwise
 --newpage we-use
 --heading How we use Docker
 
+* The "procesr" host: gateway, pansetr, pangetr, authy, stunlr
+
 * Linking and non-linking
   - nginx-proxy and nc-app
 
-* Secrets
+* Secrets: panama, CloudFormation
 
-* Logging
+* Logging: slogr
 
 * Fig
 

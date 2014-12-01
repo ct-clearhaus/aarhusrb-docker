@@ -4,6 +4,16 @@
 --title How we use Docker
 --date 2014-12-01
 
+--newpage questions
+
+
+--center   ____                  _   _                ___  
+--center  / __ \                | | (_)              |__ \ 
+--center | |  | |_   _  ___  ___| |_ _  ___  _ __  ___  ) |
+--center | |  | | | | |/ _ \/ __| __| |/ _ \| '_ \/ __|/ / 
+--center | |__| | |_| |  __/\__ \ |_| | (_) | | | \__ \_|  
+--center  \___\_\\__,_|\___||___/\__|_|\___/|_| |_|___(_)  
+
 
 --newpage agenda
 --heading Agenda
